@@ -1,0 +1,1 @@
+#Файл для коммита в master перед merge-commit
